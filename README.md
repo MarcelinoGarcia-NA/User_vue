@@ -16,6 +16,8 @@ DESCRIÇÃO: MEU PRIMEIRO PROJETO INICIANDO COM VUE.JS, API EM USO CADASTRO DE U
 
 
 
-![image](https://user-images.githubusercontent.com/64509713/229323117-e7d3e5ef-3f18-4409-9287-a89d3aa592f1.png)
-![image](https://user-images.githubusercontent.com/64509713/229323458-47e596cb-4b06-45ea-bda0-4581ea1b8c2f.png)
+![image](https://user-images.githubusercontent.com/64509713/229323512-5baca1b8-1e65-43df-afc0-b1f7921af455.png)
+![image](https://user-images.githubusercontent.com/64509713/229323565-1cbbbdae-e2ac-4307-bace-4160a71ea637.png)
+
+
 
